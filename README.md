@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&ring=673881)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisakisa&theme=dracula&title_color=673881)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&ring=673881)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisakisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
