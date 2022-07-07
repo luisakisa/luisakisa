@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
  
 
- 
-<h3 align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- </h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
