@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  Hi 👋
- I'm a student of KemSU! 
+ 
+ I'm a student of KemSU🔭 
+ 
  At the moment I am studying frontend development
+ 
 :green_heart: 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
