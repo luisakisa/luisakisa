@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **luisakisa/luisakisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Hi 👋
+ I'm a student of KemSU! 
+ At the moment I am studying frontend development
+:green_heart: 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
