@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm <a>Katya✨</a> 
 <h3 align="center">Computer science student from Russia</h3>
 <h3 align="center"> At the moment I am studying frontend development </h3>
-<h3 align="center"> :green_heart: </h3>
+<h3 align="center"> :purple_heart: </h3>
 
  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&hide_border=true&ring=CC59DD)](https://git.io/streak-stats)
 
