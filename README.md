@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&hide_border=true&ring=673881)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&ring=673881)](https://git.io/streak-stats)
