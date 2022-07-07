@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm <a>Katya</a> 
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
-<h3 align="center"> At the moment I am studying frontend development 🇷🇺</h3>
-<h3 align="center"> :green_heart:  🇷🇺</h3>
+<h3 align="center">Computer science student from Russia</h3>
+<h3 align="center"> At the moment I am studying frontend development </h3>
+<h3 align="center"> :green_heart: </h3>
 
  
 
