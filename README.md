@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> :purple_heart: </h3>
 
 
-![GitHub Snake](github-user-contribution.svg)
-                                 ![This is an image](https://i.pinimg.com/564x/5a/1f/bd/5a1fbd023cb1655ab9f808fcacc4445c.jpg)
+
+![This is an image](https://i.pinimg.com/564x/5a/1f/bd/5a1fbd023cb1655ab9f808fcacc4445c.jpg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&ring=673881)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisakisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
