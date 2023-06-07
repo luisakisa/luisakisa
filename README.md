@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![This is an image](https://cdn130.picsart.com/265224988006212.png?to=crop&type=webp&r=1456x1456&q=85)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisakisa&theme=dracula&ring=673881)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisakisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
